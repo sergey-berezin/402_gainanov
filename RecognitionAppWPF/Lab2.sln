@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecognitionLibrary", "..\RecognitionLibrary\RecognitionLibrary.csproj", "{DFAA927A-B1EA-4732-B5E4-CA233DE70C2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecognitionAppWPF", "..\RecognitionAppWPF\RecognitionAppWPF.csproj", "{243D807D-ABD6-47B1-8196-E4A30E1F3AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAA927A-B1EA-4732-B5E4-CA233DE70C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAA927A-B1EA-4732-B5E4-CA233DE70C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAA927A-B1EA-4732-B5E4-CA233DE70C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAA927A-B1EA-4732-B5E4-CA233DE70C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243D807D-ABD6-47B1-8196-E4A30E1F3AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243D807D-ABD6-47B1-8196-E4A30E1F3AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243D807D-ABD6-47B1-8196-E4A30E1F3AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243D807D-ABD6-47B1-8196-E4A30E1F3AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60286963-3EB3-4B3A-AD17-01F01424B879}
+	EndGlobalSection
+EndGlobal
